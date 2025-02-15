@@ -30,10 +30,10 @@ python run.py
 ### 5. Using Docker  
 ### Build the image  
 ```
-docker build -t llm-agent .  
+docker build -t project1 .  
 ```
 
 ### Run the container  
 ```
-docker run --env-file .env -p 8000:8000 llm-agent  
+docker run --env-file .env -p 8000:8000 project1  
 ```
