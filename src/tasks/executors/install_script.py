@@ -28,7 +28,7 @@ class InstallScriptExecutor:
 
             # Download and run script
             script_url = params['script_url']
-            email = params.get('email', 'alokkumar.bharti@gramener.com')
+            email = params.get('email', 'krishnasaikeerthan.nagandla@gramener.com')
 
             if not email:
                 raise ValueError("Email parameter is required")

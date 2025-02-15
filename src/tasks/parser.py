@@ -14,7 +14,7 @@ class TaskParser:
                 "task_type": "install_run_script",
                 "parameters": {
                     "script_url": "https://raw.githubusercontent.com/sanand0/tools-in-data-science-public/tds-2025-01/project-1/datagen.py",
-                    "email": 'alokkumar.bharti@gramener.com'
+                    "email": 'krishnasaikeerthan.nagandla@gramener.com'
                 }
             }
 
